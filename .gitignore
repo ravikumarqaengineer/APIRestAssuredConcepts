@@ -1,0 +1,14 @@
+# Java build output
+target/
+*.class
+
+# Test reports
+test-output/
+
+# IDE settings (Eclipse)
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
